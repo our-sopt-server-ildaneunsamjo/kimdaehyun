@@ -2,3 +2,9 @@
 ---
 
 디렉토리 별 붙은 숫자는 세미나 번호와 같습니다.
+
+---
+## Homework 1 과제 실행
+```
+cd homework1
+node teamReader.js
