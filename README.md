@@ -8,3 +8,12 @@
 ```
 cd homework1
 node teamReader.js
+```
+
+---
+## Homework 2 과제 실행
+```
+cd homework2
+cd mission2-3
+npm start
+```
