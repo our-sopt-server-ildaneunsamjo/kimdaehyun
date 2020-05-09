@@ -15,5 +15,5 @@ node teamReader.js
 ```
 cd homework2
 cd mission2-3
-npm starts
+npm start
 ```
